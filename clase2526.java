@@ -1,1 +1,2 @@
-//Version de UI para clase2526.java
+//Correcion de logica en clase2526.java
+
